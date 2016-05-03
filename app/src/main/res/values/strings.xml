@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GSB Medecin</string>
+    <string name="DepTitle">Liste des départements :</string>
+    <string name="MedTitle">Liste des médecins du département</string>
+    <string name="MedName"><u>Nom prénom :</u></string>
+    <string name="MedAdresse">Adresse :</string>
+    <string name="MedSpec">Spécialité :</string>
+    <string name="MedTel">Tel :</string>
+    <string name="filterHint">Entrez nom/prénom :</string>
+    <string name="CallButton">Call</string>
+    <string name="SMSButton">Send Message</string>
+
+    <string name="mapKey">AIzaSyChBP5l5ZTbv20WIncbJRH3S_9sIsVzC5I</string>
+</resources>
